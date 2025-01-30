@@ -1,0 +1,6 @@
+[submodule "vision02-server"]
+	path = vision02-server
+	url = git@github.com:HAEFlower/vision02-server.git
+[submodule "vision02-client"]
+	path = vision02-client
+	url = git@github.com:HAEFlower/vision02-client.git
